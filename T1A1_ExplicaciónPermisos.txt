@@ -1,0 +1,5 @@
+PERMISOS.
+
+Al momento de modificar los permisos dependiendo cual se elegia cumplian con una funcion:
+por ejemplo si cambiaba a acceder no me permitia eliminar ni crear
+
